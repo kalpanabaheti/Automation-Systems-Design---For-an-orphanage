@@ -1,4 +1,4 @@
 # Software Development and Systems Engineering
 
-Algorithms - For problem solving
-Automation Systems - For software engineering using OOP architecture
+1. Algorithms - For problem solving
+2. Automation Systems - For software engineering using OOP architecture
